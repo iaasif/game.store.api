@@ -8,24 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/asifpc/.nuget/packages/": {}
+    "/home/asif/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asifpc/Documents/dotNet/practice/Game.Store.Api/Game.Store.Api.csproj",
+      "projectUniqueName": "/home/asif/Documents/personal/game.store.api/Game.Store.Api.csproj",
       "projectName": "Game.Store.Api",
-      "projectPath": "/Users/asifpc/Documents/dotNet/practice/Game.Store.Api/Game.Store.Api.csproj",
-      "packagesPath": "/Users/asifpc/.nuget/packages/",
-      "outputPath": "/Users/asifpc/Documents/dotNet/practice/Game.Store.Api/obj/",
+      "projectPath": "/home/asif/Documents/personal/game.store.api/Game.Store.Api.csproj",
+      "packagesPath": "/home/asif/.nuget/packages/",
+      "outputPath": "/home/asif/Documents/personal/game.store.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/asifpc/.nuget/NuGet/NuGet.Config"
+        "/home/asif/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/home/linuxbrew/.linuxbrew/Cellar/dotnet/10.0.102/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/home/linuxbrew/.linuxbrew/Cellar/dotnet/10.0.102/libexec/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
